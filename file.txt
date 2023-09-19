@@ -1,2 +1,2 @@
 echo "first commit was changed"
-eho"hello world"
+echo"hello world"
